@@ -51,6 +51,8 @@ python pi_offline_sender.py
 
 Use the sidebar controls to adjust the history window, bit‑planes requested, codec, bandwidth throttle, and packet‑loss simulation. The dashboard displays a live sensor stream, detailed compression statistics, and provides a CSV download option for the recovered data.
 
+A demo video is {here}[https://drive.google.com/file/d/1etdjNjO-VFhYkczx4EUn0cCFB4SHXUjU/view?usp=sharing].
+
 ## How It Works
 
 1. **Acquisition & FP16 Conversion**: Sensor data (e.g., temperature and humidity) is sampled and converted to FP16.
